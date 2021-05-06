@@ -2,7 +2,9 @@
 All things audio
 
 # Levels
-[Source](https://www.sweetwater.com/sweetcare/articles/whats-the-difference-between-mic-instrument-line-and-speaker-level-signals/)
+[Source](https://www.sweetwater.com/sweetcare/articles/whats-the-difference-between-mic-instrument-line-and-speaker-level-signals/) 
+https://www.blackghostaudio.com/blog/audio-signal-levels-explained-mic-instrument-line-and-speaker  
+
 In the audio world, there are four signal levels that we deal with: mic, instrument, line, and speaker. These levels all have different meanings, so it is important to know the differences between them. Take a look below to learn about these different signal levels.
 
 ## Mic level
