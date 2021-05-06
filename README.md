@@ -25,4 +25,8 @@ Consumer line level is rated around -10dBV and is what you’ll find in products
 Professional line level is rated around +4 dBu and can be found in equipment like mixing desks, preamplifiers, and signal processing equipment.
 
 # ATEM Software
+All things ATEM  
+
+## Audio mixer
 [Youtube: ATEM Mini Sound Settings - Compressor, EQ, Limiter, Expander (16 min)](https://www.youtube.com/watch?v=j4RLCBd3Q64)  
+[Copying channel setting](https://ianmorrish.wordpress.com/2020/07/04/copy-atem-fairlight-eq-settings-between-channels/)
