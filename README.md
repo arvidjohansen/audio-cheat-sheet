@@ -23,3 +23,6 @@ Line level signals are the highest level signals before amplification. This is t
 Example: Output from your sound system to your speakers  
 Consumer line level is rated around -10dBV and is what you’ll find in products like a CD player.
 Professional line level is rated around +4 dBu and can be found in equipment like mixing desks, preamplifiers, and signal processing equipment.
+
+# ATEM Software
+[Youtube: ATEM Mini Sound Settings - Compressor, EQ, Limiter, Expander (16 min)](https://www.youtube.com/watch?v=j4RLCBd3Q64)  
